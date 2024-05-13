@@ -8,6 +8,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BDFD1CC3-A9CB-4C80-8F50-B964A67D45AF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testapp", "testapp\testapp.vcxproj", "{F627090F-6A82-4A27-A88E-B068AC6A0376}"
+	ProjectSection(ProjectDependencies) = postProject
+		{36D9B9A7-2BF1-485C-BF43-B8060DB4C447} = {36D9B9A7-2BF1-485C-BF43-B8060DB4C447}
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1594580E-7240-44C8-8859-FE1A1268B8EE}"
 	ProjectSection(SolutionItems) = preProject
