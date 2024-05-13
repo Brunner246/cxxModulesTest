@@ -3,6 +3,7 @@ module;
 #include <iostream>
 #include <typeinfo>
 #include <string>
+#include <typeindex>
 
 module test.modules;
 
