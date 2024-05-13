@@ -18,3 +18,5 @@
 `Project properties -> C/C++ -> Command Line opition -> Add /reference "path to DLL project\x64\Debug\test.modules.ixx.ifc"`
 
 [microsoft developer forum](https://learn.microsoft.com/en-us/answers/questions/1665106/how-to-use-c-20-modules-in-shared-libraries?page=1&orderby=Helpful&comment=answer-1517573#newest-answer-comment)
+
+[/reference compiler flag](https://learn.microsoft.com/en-us/cpp/build/reference/module-reference?view=msvc-170)
